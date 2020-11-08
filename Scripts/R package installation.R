@@ -22,6 +22,8 @@ install.packages('gdm', dependencies = T)
 install.packages('dendextend', dependencies = T)
 install.packages('ggdendro', dependencies = T)
 install.packages('rinat', dependencies = T)
+install.packages('plotly', dependencies = T)
+install.packages('skimr', dependencies = T)
 ##============================================================================##
 
 
