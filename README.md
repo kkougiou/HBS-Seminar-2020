@@ -11,19 +11,19 @@ The webinar's program is as follows:
   - **13:00 - 16:00:** Introduction to R, Part I (Install & Load R packages / Data import & Export) **[Practical]** by [Dr. Danis Kiziridis](https://www.swansea.ac.uk/maths/ourstaff/researchstudents/kiziridisd/#areas-of-expertise=is-expanded)
   - **17:00 - 20:00:** Introduction to R, Part II (Basic statistical analyses / Data visualization) **[Practical]** by [Dr. Danis Kiziridis](https://www.swansea.ac.uk/maths/ourstaff/researchstudents/kiziridisd/#areas-of-expertise=is-expanded)
  
-- **Saturday 14-11-2020**
+- **Monday 16-11-2020**
   - **09:00 - 12:00:** Introduction to R, Part III (Advanced data visualization) **[Practical]** by [Dr. Danis Kiziridis](https://www.swansea.ac.uk/maths/ourstaff/researchstudents/kiziridisd/#areas-of-expertise=is-expanded)
   - **13:00 - 16:00:** Databases and data-mining  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **17:00 - 20:00:** Introduction to Spatial Data  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
 
-- **Sunday 15-11-2020**
+- **Tuesday 17-11-2020**
   - **09:00 - 12:00:** Macroecological and biogeographical patterns **[Lecture]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/) and [Dr. Elpida Karadimou](https://ecoquest.gr/en/team/dr-elpida-karadimou/)
   - **13:00 - 15:00:** Taxonomical diversity patterns  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **15:00 - 16:00:** Phylogenetic diversity patterns, Part I  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **17:00 - 18:00:** Phylogenetic diversity patterns, Part II  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **18:00 - 20:00:** Functional diversity patterns  **[Practical]** by [Dr. Elpida Karadimou](https://ecoquest.gr/en/team/dr-elpida-karadimou/)
 
-- **Monday 16-11-2020**
+- **Wednesday 16-11-2020**
   - **09:00 - 10:00:** Flora of Greece **[Lecture]** by [Prof. Panayotis Dimopoulos](http://www.biology.upatras.gr/personel/dimopoylos/) 
   - **10:00 - 11:00:** Extinction risk assessment **[Lecture]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **11:00 - 12:00:** Extinction risk assessment, Part I **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
