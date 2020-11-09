@@ -5,6 +5,8 @@ All participants are encouraged to download (from the links provided in the resp
 
 Prior to Saturday's practicals, all participants should have installed all R packages needed henceforth (please check the ***"Saturday R packages"*** R script in the **Scripts** folder).
 
+All download links for each instructor's practicals are available in the `Data/Practicals/instructor_name/Description.md` folder path.
+
 The webinar's program is as follows:  
 
 - **Friday 13-11-2020**
