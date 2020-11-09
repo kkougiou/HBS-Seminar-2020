@@ -15,11 +15,11 @@ All download links for each instructor's practicals are available in the followi
 The webinar's program is as follows:  
 
 - **Friday 13-11-2020**
-  - **13:00 - 16:00:** Introduction to R, Part I (Install & Load R packages / Data import & Export) **[Practical]** by [Dr. Danis Kiziridis](https://www.swansea.ac.uk/maths/ourstaff/researchstudents/kiziridisd/#areas-of-expertise=is-expanded)
-  - **17:00 - 20:00:** Introduction to R, Part II (Basic statistical analyses / Data visualization) **[Practical]** by [Dr. Danis Kiziridis](https://www.swansea.ac.uk/maths/ourstaff/researchstudents/kiziridisd/#areas-of-expertise=is-expanded)
+  - **13:00 - 16:00:** Introduction to R, Part I (Install & Load R packages / Data import & Export) **[Practical]** by [Dr. Danis Kiziridis](http://danis.rf.gd/)
+  - **17:00 - 20:00:** Introduction to R, Part II (Basic statistical analyses / Data visualization) **[Practical]** by [Dr. Danis Kiziridis](http://danis.rf.gd/)
  
 - **Monday 16-11-2020**
-  - **09:00 - 12:00:** Introduction to R, Part III (Advanced data visualization) **[Practical]** by [Dr. Danis Kiziridis](https://www.swansea.ac.uk/maths/ourstaff/researchstudents/kiziridisd/#areas-of-expertise=is-expanded)
+  - **09:00 - 12:00:** Introduction to R, Part III (Advanced data visualization) **[Practical]** by [Dr. Danis Kiziridis](http://danis.rf.gd/)
   - **13:00 - 16:00:** Databases and data-mining  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **17:00 - 20:00:** Introduction to Spatial Data  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
 
