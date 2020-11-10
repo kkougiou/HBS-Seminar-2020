@@ -25,6 +25,7 @@ install.packages('rinat', dependencies = T)
 install.packages('plotly', dependencies = T)
 install.packages('skimr', dependencies = T)
 install.packages('PhyloMeasures', dependencies = T)
+install.packages('psych', dependencies = T)
 ##============================================================================##
 
 
