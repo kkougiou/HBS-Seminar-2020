@@ -24,6 +24,7 @@ install.packages('ggdendro', dependencies = T)
 install.packages('rinat', dependencies = T)
 install.packages('plotly', dependencies = T)
 install.packages('skimr', dependencies = T)
+install.packages('PhyloMeasures', dependencies = T)
 ##============================================================================##
 
 
