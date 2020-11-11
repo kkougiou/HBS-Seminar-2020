@@ -1,7 +1,7 @@
-From the following links you can download the practicals delivered by [Dr. Danis Kiziridis]():  
+From the following links you can download the practicals delivered by [Dr. Danis Kiziridis](http://danis.rf.gd):  
 
 - Friday practicals
-    - [Εισαγωγή στην R](http://danis.rf.gd/wp-content/uploads/2020/11/Eisagwgh_sthn_R.zip)
+    - [1. Εισαγωγή στην R](http://danis.rf.gd/tutorials/)
     - Βασικές αναλύσεις και γραφήματα στην R
 - Saturday practical
 
