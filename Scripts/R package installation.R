@@ -27,6 +27,8 @@ install.packages('skimr', dependencies = T)
 install.packages('PhyloMeasures', dependencies = T)
 install.packages('psych', dependencies = T)
 install.packages('leaps', dependencies = T)
+install.packages('ConR', dependencies = T)
+install.packages('rasterVis', dependencies = T)
 ##============================================================================##
 
 
