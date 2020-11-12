@@ -36,6 +36,7 @@ install.packages('rasterVis', dependencies = T)
 ## Install the libraries from github----
 ##============================================================================##
 devtools::install_github("daijiang/rtrees")
+devtools::install_github("yutannihilation/ggsflabel")
 ##============================================================================##
 
 
