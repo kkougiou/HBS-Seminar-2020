@@ -1,6 +1,6 @@
 From the following links you can download the practicals delivered by [Dr. Konstantinos Kougioumoutzis](www.kkougiou.com):  
 
-- [Monday practicals](https://transferxl.com/08vqgLtdwmhJT6)
+- [Monday practicals](https://transferxl.com/08FrYRB5B0Zpn)
 - [Tuesday practicals](https://transferxl.com/08v34hK43Jcrk0)
 - [Wednesday practicals](https://transferxl.com/08j2zSwMpLvkH) 
 
