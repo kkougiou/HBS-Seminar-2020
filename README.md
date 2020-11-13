@@ -3,7 +3,7 @@ This repository contains the scripts and the associated data needed for the four
   
 All participants are encouraged to download (from the links provided in the respective folders) **all** the data needed for the practicals to be held during the webinar. Please note that the abiotic data may sum up to ca. **2 GB**, so take good care that you have enough storage in your hard drive.   
 
-Prior to Saturday's practicals, all participants should have installed all R packages needed henceforth (please check the ***"Saturday R packages"*** R script in the **Scripts** folder).
+Prior to Friday's practicals, all participants should have installed all R packages needed henceforth (please check the ***"R package installation"*** R script in the **Scripts** folder).
 
 
 All download links for each instructor's practicals are available in the following folder path: 
