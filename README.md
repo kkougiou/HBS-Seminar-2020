@@ -28,7 +28,7 @@ The webinar's program is as follows:
   - **13:00 - 15:00:** Taxonomical diversity patterns  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **15:00 - 16:00:** Phylogenetic diversity patterns, Part I  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **17:00 - 18:00:** Phylogenetic diversity patterns, Part II  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
-  - **18:00 - 20:00:** Functional diversity patterns  **[Practical]** by [Dr. Elpida Karadimou](https://ecoquest.gr/en/team/dr-elpida-karadimou/)
+  - **18:00 - 20:00:** Functional diversity patterns  **[Practical]** by [Dr. Elpida Karadimou](https://www.researchgate.net/profile/Elpida_Karadimou)
 
 - **Wednesday 16-11-2020**
   - **09:00 - 10:00:** Flora of Greece **[Lecture]** by [Prof. Panayotis Dimopoulos](http://www.biology.upatras.gr/personel/dimopoylos/) 
