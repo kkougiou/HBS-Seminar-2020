@@ -45,22 +45,22 @@ The webinar's program is as follows:
   - **13:00 - 16:00:** Extinction risk assessment, Part II **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)  
     
   ## Instructors
-  - Prof. Panayotis Dimopoulos   
+- Prof. Panayotis Dimopoulos   
   <p align="right">
   <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/pd.jpg">
 </p>  
   
-  - Dr. Elpida Karadimou  
+- Dr. Elpida Karadimou  
   <p align="right">
   <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/ek.jpg">
 </p>   
   
-  - Dr. Danis Kiziridis  
+- Dr. Danis Kiziridis  
   <p align="right">
   <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/dk.png">
 </p>   
   
- - Dr. Konstantinos Kougioumoutzis  
+- Dr. Konstantinos Kougioumoutzis  
   <p align="right">
   <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/kk.jpg">
 </p>  
