@@ -1,4 +1,6 @@
-# HBS-Seminar-2020
+# HBS-Seminar-2020  
+  
+![](https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/ebe-LOGO-005-300.jpg)  
 This repository contains the scripts and the associated data needed for the four-day webinar entitled: **"Diversity patterns of the Flora of Greece with applications in R"** delivered under the auspices of the [Hellenic Botanical Society](www.hbs.gr).  
   
 All participants are encouraged to download (from the links provided in the respective folders) **all** the data needed for the practicals to be held during the webinar. Please note that the abiotic data may sum up to ca. **2 GB**, so take good care that you have enough storage in your hard drive.   
