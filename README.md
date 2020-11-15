@@ -3,11 +3,8 @@
 <p align="center">
   <img width="300" height="300" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/ebe-LOGO-005-300.jpg">
 </p>
-     
-<style>
-body {
-text-align: justify}
-</style>      
+    
+    
 ## Description   
 This repository contains the scripts and the associated data needed for the four-day webinar entitled: **"Diversity patterns of the Flora of Greece with applications in R"** delivered under the auspices of the [Hellenic Botanical Society](www.hbs.gr).  
   
