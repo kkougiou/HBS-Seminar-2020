@@ -3,20 +3,22 @@
 <p align="center">
   <img width="300" height="300" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/ebe-LOGO-005-300.jpg">
 </p>
-  
+   
+## Description   
 This repository contains the scripts and the associated data needed for the four-day webinar entitled: **"Diversity patterns of the Flora of Greece with applications in R"** delivered under the auspices of the [Hellenic Botanical Society](www.hbs.gr).  
   
+## Guidelines  
 All participants are encouraged to download (from the links provided in the respective folders) **all** the data needed for the practicals to be held during the webinar. Please note that the abiotic data may sum up to ca. **2 GB**, so take good care that you have enough storage in your hard drive.   
 
 Prior to Friday's practicals, all participants should have installed all R packages needed henceforth (please check the ***"R package installation"*** R script in the **Scripts** folder).
 
-
+## Downloads
 All download links for each instructor's practicals are available in the following folder path: 
 
 `Data/Practicals/instructor_name/Description.md`
 
 
-
+## Program
 The webinar's program is as follows:  
 
 - **Friday 13-11-2020**
