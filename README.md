@@ -42,4 +42,25 @@ The webinar's program is as follows:
   - **09:00 - 10:00:** Flora of Greece **[Lecture]** by [Prof. Panayotis Dimopoulos](http://www.biology.upatras.gr/personel/dimopoylos/) 
   - **10:00 - 11:00:** Extinction risk assessment **[Lecture]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **11:00 - 12:00:** Extinction risk assessment, Part I **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
-  - **13:00 - 16:00:** Extinction risk assessment, Part II **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
+  - **13:00 - 16:00:** Extinction risk assessment, Part II **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)  
+    
+  ## Instructors
+  - Prof. Panayotis Dimopoulos   
+  <p align="right">
+  <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/pd.jpg">
+</p>  
+  
+  - Dr. Elpida Karadimou  
+  <p align="right">
+  <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/ek.jpg">
+</p>   
+  
+  - Dr. Danis Kiziridis  
+  <p align="right">
+  <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/dk.png">
+</p>   
+  
+ - Dr. Konstantinos Kougioumoutzis  
+  <p align="right">
+  <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/kk.jpg">
+</p>  
