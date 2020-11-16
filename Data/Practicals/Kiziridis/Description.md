@@ -3,6 +3,7 @@ From the following links you can download the practicals delivered by [Dr. Danis
 - Friday practicals
     - [1. Εισαγωγή στην R](http://danis.rf.gd/tutorials/)
     - [2. Βασικές αναλύσεις δεδομένων στην R](http://danis.rf.gd/tutorials/)
-- Saturday practical
+- Monday practical
+    - [3. Προχωρημένες αναλύσεις δεδομένων στην R](http://danis.rf.gd/tutorials/)
 
 Please note that these links will be **automatically deleted** by Monday 16-11-2020 at the latest.
