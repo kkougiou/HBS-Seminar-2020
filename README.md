@@ -32,12 +32,11 @@ The webinar's program is as follows:
   - **17:00 - 20:00:** Introduction to Spatial Data  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
 
 - **Tuesday 17-11-2020**
-  - **09:00 - 12:00:** Macroecological and biogeographical patterns **[Lecture]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/) and [Dr. Elpida Karadimou](https://ecoquest.gr/en/team/dr-elpida-karadimou/)
+  - **09:00 - 12:00:** Macroecological and biogeographical patterns **[Lecture]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **13:00 - 15:00:** Taxonomical diversity patterns  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **15:00 - 16:00:** Phylogenetic diversity patterns, Part I  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
   - **17:00 - 18:00:** Phylogenetic diversity patterns, Part II  **[Practical]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
-  - **18:00 - 20:00:** Functional diversity patterns  **[Practical]** by [Dr. Elpida Karadimou](https://www.researchgate.net/profile/Elpida_Karadimou)
-
+  
 - **Wednesday 16-11-2020**
   - **09:00 - 10:00:** Flora of Greece **[Lecture]** by [Prof. Panayotis Dimopoulos](http://www.biology.upatras.gr/personel/dimopoylos/) 
   - **10:00 - 11:00:** Extinction risk assessment **[Lecture]** by [Dr. Konstantinos Kougioumoutzis](https://www.kkougiou.com/)
@@ -49,11 +48,6 @@ The webinar's program is as follows:
   <p align="right">
   <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/pd.jpg">
 </p>  
-  
-- Dr. Elpida Karadimou  
-  <p align="right">
-  <img width="200" height="200" src="https://github.com/kostask84/HBS-Seminar-2020/blob/main/Images/ek.jpg">
-</p>   
   
 - Dr. Danis Kiziridis  
   <p align="right">
